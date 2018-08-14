@@ -5,6 +5,7 @@ const fruitList =
       "<li>Pineapple</li>" +
     "</ul>";
 
+// template literal example below
 const vegetableList = `
   <ul>
       <li>Potato</li>

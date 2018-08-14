@@ -1,0 +1,21 @@
+const name = "Andrew";
+
+// exemple of function assigned to a variable prior to 2015
+// function sayName() {
+//   const message = "My name is " + name;
+//   console.log(message);
+// }
+//
+// function sayBye() {
+//   console.log("Bye " + name);
+// }
+
+//exemple following ES2015
+const sayName = () => {
+  const message = "My name is " + name;
+  console.log(message);
+}
+
+const sayBye = () => {
+  console.log("Bye " + name);
+}
