@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="505618a4-2143-49a6-80df-2f5ab8f36542" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/01_no_argumentsjs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/02_single_argument.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/03_multiple_arguments.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/04__functionally_the_same.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/app.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JS-and-the-dome/thinking-globally/css/style.css" afterPath="$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/css/style.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/JS-and-the-dome/thinking-globally/index.html" afterPath="$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Getting Started With ES2015/Template literals + String Interpolation/basic.js" afterPath="$PROJECT_DIR$/Getting Started With ES2015/Template literals + String Interpolation/basic.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Getting Started With ES2015/Template literals + String Interpolation/multiline.js" afterPath="$PROJECT_DIR$/Getting Started With ES2015/Template literals + String Interpolation/multiline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/02_single_argument.js" afterPath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/02_single_argument.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/03_multiple_arguments.js" afterPath="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/03_multiple_arguments.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,41 +24,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01_no_argumentsjs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/01_no_argumentsjs">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="465">
+              <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="02_single_argument.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/02_single_argument.js">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="1080">
+              <caret line="71" column="64" lean-forward="false" selection-start-line="71" selection-start-column="64" selection-end-line="71" selection-end-column="64" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="03_multiple_arguments.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/03_multiple_arguments.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="04__functionally_the_same.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/04__functionally_the_same.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -81,6 +72,8 @@
       <find>platform</find>
       <find>.png</find>
       <find>node</find>
+      <find>img</find>
+      <find>im</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -89,11 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coin-game/phaser.js" />
-        <option value="$PROJECT_DIR$/coin-game/game.js" />
-        <option value="$PROJECT_DIR$/story/histoire.js" />
-        <option value="$PROJECT_DIR$/story/story.html" />
-        <option value="$PROJECT_DIR$/story/story.css" />
         <option value="$PROJECT_DIR$/quiz/quiz.html" />
         <option value="$PROJECT_DIR$/quiz/quiz.js" />
         <option value="$PROJECT_DIR$/story/story.js" />
@@ -135,11 +123,16 @@
         <option value="$PROJECT_DIR$/JS-and-the-dome/css/style.css" />
         <option value="$PROJECT_DIR$/Getting Started With ES2015/Template literals + String Interpolation/basic.js" />
         <option value="$PROJECT_DIR$/Getting Started With ES2015/Template literals + String Interpolation/multiline.js" />
-        <option value="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/02_single_argument.js" />
-        <option value="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/03_multiple_arguments.js" />
         <option value="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/04__functionally_the_same.js" />
         <option value="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/index.html" />
         <option value="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/01_no_argumentsjs" />
+        <option value="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/02_single_argument.js" />
+        <option value="$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/03_multiple_arguments.js" />
+        <option value="$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/index.html" />
+        <option value="$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/app.js" />
+        <option value="$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/css/style.css" />
+        <option value="$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/index.html" />
+        <option value="$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/app.js" />
       </list>
     </option>
   </component>
@@ -177,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,30 +181,19 @@
             <path>
               <item name="js-treehouse" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-treehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="Getting Started With ES2015" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM-scripting-by-exemple" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js-treehouse" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-treehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="Getting Started With ES2015" type="462c0819:PsiDirectoryNode" />
-              <item name="basic-arrow-syntax" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM-scripting-by-exemple" type="462c0819:PsiDirectoryNode" />
+              <item name="RSVP-app" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js-treehouse" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-treehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="JS-and-the-dome" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-treehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-treehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="JS-and-the-dome" type="462c0819:PsiDirectoryNode" />
-              <item name="thinking-globally" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-treehouse" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-treehouse" type="462c0819:PsiDirectoryNode" />
-              <item name="JS-and-the-dome" type="462c0819:PsiDirectoryNode" />
-              <item name="thinking-globally" type="462c0819:PsiDirectoryNode" />
+              <item name="DOM-scripting-by-exemple" type="462c0819:PsiDirectoryNode" />
+              <item name="RSVP-app" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -218,7 +201,6 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -274,18 +256,19 @@
       <workItem from="1532320285392" duration="1078000" />
       <workItem from="1532970082507" duration="5076000" />
       <workItem from="1533683909458" duration="3728000" />
-      <workItem from="1534206277794" duration="1895000" />
+      <workItem from="1534206277794" duration="1995000" />
+      <workItem from="1534275665790" duration="3288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29554000" />
+    <option name="totallyTimeSpent" value="32942000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="960" y="23" width="480" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36819172" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24836601" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -332,16 +315,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coin-game/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ACT-PDX-React/public/favicon.ico" />
-    <entry file="file://$PROJECT_DIR$/ACT-PDX-React/README.md" />
-    <entry file="file://$PROJECT_DIR$/ACT-PDX-React/src/App.js" />
     <entry file="file://$PROJECT_DIR$/ACT-PDX-React/src/componment/todolist.js" />
     <entry file="file://$PROJECT_DIR$/TODO-React/index.html" />
     <entry file="file://$PROJECT_DIR$/TODO-React/todoForm.js" />
@@ -428,7 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="25" column="12" lean-forward="true" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -559,15 +531,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JS-and-the-dome/thinking-globally/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JS-and-the-dome/thinking-globally/css/style.css">
+    <entry file="file://$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
@@ -579,7 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <marker date="1534206815000" expanded="true" signature="185:262" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -597,7 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -605,54 +564,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="34" column="17" lean-forward="false" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/tachers_note.md" />
+    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/02_single_argument.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/04__functionally_the_same.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/tachers_note.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/index.html">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="7" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/01_no_argumentsjs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/03_multiple_arguments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="0">
+          <caret line="0" column="19" lean-forward="false" selection-start-line="0" selection-start-column="19" selection-end-line="0" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/01_no_argumentsjs">
+    <entry file="file://$PROJECT_DIR$/Getting Started With ES2015/basic-arrow-syntax/04__functionally_the_same.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="360">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" lean-forward="false" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS-and-the-DOM/thinking-globally/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="26" column="7" lean-forward="true" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="71" column="64" lean-forward="false" selection-start-line="71" selection-start-column="64" selection-end-line="71" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM-scripting-by-exemple/RSVP-app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
           <folding />
         </state>
       </provider>

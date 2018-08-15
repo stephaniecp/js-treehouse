@@ -1,4 +1,4 @@
-function multiply(x, y) {
+const  multiply =>  (x, y) {
   return x * y;
 }
 
