@@ -1,0 +1,26 @@
+body {
+    background-color: purple;
+    margin: 20px;
+}
+
+.grid-container {
+    display: grid;
+    height: 100%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 1px 1px;
+    grid-template-areas: ". . . ." ". . . ." ". . . ." ". . . ." ". . . .";
+    background-color: purple;
+}
+
+.item-result {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+
+.grid-container div {
+    border: 1px solid black;
+    text-align: center;
+    padding: 50px;
+    background-color: white;
+}
