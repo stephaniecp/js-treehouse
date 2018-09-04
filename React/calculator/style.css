@@ -24,3 +24,8 @@ body {
     padding: 50px;
     background-color: white;
 }
+
+/*like button style - should be removed later*/
+#like_button_container {
+    color: yellow;
+}

@@ -1,4 +1,4 @@
-var *** = React.createClass({
+var key_one = React.createClass({
     render: function(){
         return (
             // JSX

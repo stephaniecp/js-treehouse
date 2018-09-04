@@ -1,4 +1,4 @@
-// "started code" pasted below
+// "starter code" pasted below
 'use strict';
 const e = React.createElement;
 class LikeButton extends React.Component {
